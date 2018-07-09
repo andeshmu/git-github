@@ -1,2 +1,2 @@
 # git-github
-training repo
+training first repo
